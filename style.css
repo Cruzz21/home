@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+header {
+background-color: #dab200;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 10px;
+padding-left: 88px;
+padding-right: 80px;
+padding-top: 24px;
+padding-bottom: 24px;
+
+}
+
+main {
+    text-align: center;
+}
+body {
+    color: #263138;
+}
+
+header nav a {
+    color: aliceblue;
+    font-weight: 600;
+    padding: 25px;
+    text-decoration: none;
+}
+h1 {
+    color: rgb(69, 153, 0);
+    text-align: center;
+}
+h2 {
+    display: block;
+    align-items: center;
+}
+
+
+
+#receita {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 24px 80px 128px 80px;
+
+}
+
+#Preparo {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 24px 80px 128px 80px;
+}
+
+h2 {
+    font-size: 48px;
+    text-align:
+}
+
+.p {
+    text-align: center;
+    align-items: center;
+}
+
+.ul {
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
